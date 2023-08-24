@@ -25,7 +25,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.example.MainClass</mainClass>
+            <mainClass>org.cloudifysource.examples</mainClass>
           </manifest>
         </archive>
       </configuration>
